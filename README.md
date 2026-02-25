@@ -16,7 +16,7 @@
 ## 🧩 About Me
 
 🎓 I’m a **Computer Science (Information Systems)** student based in **California**.  
-💡 Passionate about ****, **Web Development**, **Database managment**, and **App Development**.  
+💡 Passionate about **Tech Life**, **Web Development**, **Database managment**, and **App Development**.  
 🛠️ I love building projects that **solve real problems** and help me grow as a developer.  
 🌱 I try to wanna be know what should i do in the future.  
 
@@ -71,7 +71,7 @@
 
 <p align="center">
   <a href="https://github.com/MijKin"><img src="https://img.shields.io/badge/GitHub-000?style=for-the-badge&logo=github&logoColor=white"/></a>
-  <a href="www.linkedin.com/in/anh-minh-nguyen-996432344"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+  <a href="https://www.linkedin.com/in/anh-minh-nguyen-996432344/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
   <a href="mailto:aminh119bamboo@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
 </p>
 
